@@ -2,3 +2,9 @@
     position: 100px;
     background-color: aqua;
 }
+.submit{
+    cursor: pointer;
+}
+.reset{
+    cursor: pointer;
+}
